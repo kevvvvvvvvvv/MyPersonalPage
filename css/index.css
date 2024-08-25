@@ -6,3 +6,16 @@ body{
     background: rgb(34, 34, 34);
 }
 
+/*Header's styles*/
+#list-header {
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.link-header{
+    color:black;
+}
+
+#github-link:hover{
+    background: white;
+}
